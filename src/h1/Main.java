@@ -1,0 +1,12 @@
+package h1;
+
+public class Main {
+		public static void main(String[] args) {
+			
+			//Aufgabe 1)
+			int x = 100;
+			int y = 50;
+			int sum = x + y;
+			System.out.println(sum);
+	}
+}
